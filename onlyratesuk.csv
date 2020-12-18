@@ -1,0 +1,21 @@
+region,year,sex,rate,total,totalRates
+North East,2019,m,19.1,218.0,11.5
+North East,2019,f,4.1,48.0,11.5
+North West,2019,m,17.3,540.0,11.1
+North West,2019,f,5.2,169.0,11.1
+Yorkshire and The Humber,2019,m,20.6,482.0,13.8
+Yorkshire and The Humber,2019,f,7.3,178.0,13.8
+East Midlands,2019,m,16.7,345.0,10.8
+East Midlands,2019,f,5.2,111.0,10.8
+West Midlands,2019,m,16.4,411.0,10.5
+West Midlands,2019,f,4.8,123.0,10.5
+East of England,2019,m,17.5,462.0,11.6
+East of England,2019,f,5.9,164.0,11.6
+London,2019,m,11.8,437.0,8.1
+London,2019,f,4.6,179.0,8.1
+South East,2019,m,16.8,657.0,10.8
+South East,2019,f,4.9,202.0,10.8
+South West,2019,m,19.4,465.0,12.0
+South West,2019,f,4.9,125.0,12.0
+Wales,2019,m,18.8,248.0,12.2
+Wales,2019,f,5.8,82.0,12.2
